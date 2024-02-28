@@ -4,4 +4,4 @@
 
 demo => https://youtu.be/leJNBQkmqM8
 
-pku adalah sistem monitoring data peta kesehatan unit yang saya bangun mengunakan PHP native
+pku adalah sistem monitoring data peta kesehatan unit yang saya bangun mengunakan PHP Native & MYSQL
